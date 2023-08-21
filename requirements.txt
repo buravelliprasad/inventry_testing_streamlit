@@ -4,3 +4,4 @@ streamlit
 tiktoken
 pandas
 tabulate
+streamlit_chat
